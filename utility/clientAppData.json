@@ -1,0 +1,31 @@
+
+
+   { 
+    "url":"https://www.saucedemo.com/v1/", 
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "skuProductName":"Jimmies Cigarillos",
+    "billingAddress":[""],
+    "confirmationPageUrl":"",
+    "productName" : "Sauce Labs Bike Light",
+    "productItem1":"Pr",
+    "dashboardPageHeader" : "Products",
+    "productData":{
+
+      "item1":"Cap",
+      "item2":"Jeans"
+    },
+    "userData":[
+      {
+         "user1":"Shubham",
+         "phoneNumber":"79856"
+      },
+      {
+         "user2":"Akash",
+         "phoneNumber":"9897"
+
+      }
+    ]
+
+    }
+

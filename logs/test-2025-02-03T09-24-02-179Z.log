@@ -1,0 +1,26 @@
+[2025-02-03T14:54:03.319] [INFO] default - 
+🚀 Starting test case: =>=>=> Standard Login Validation Test. <=<=<= 🚀
+
+[2025-02-03T14:54:03.324] [INFO] default - Checking the bot Image...
+[2025-02-03T14:54:03.370] [INFO] default - Signing in...
+[2025-02-03T14:54:03.370] [INFO] default - Entering the Username & Password for Standard User
+[2025-02-03T14:54:03.559] [INFO] default - User signed in successfully!
+[2025-02-03T14:54:03.600] [INFO] default - 
+✅ Finished test case: =>=>=> Standard User Login Test Ended. <=<=<= ✅
+
+[2025-02-03T14:54:04.266] [INFO] default - 
+🚀 Starting test case: =>=>=> Basic User Login Validation Test. <=<=<= 🚀
+
+[2025-02-03T14:54:04.269] [INFO] default - Checking the bot Image...
+[2025-02-03T14:54:04.297] [INFO] default - Signing in...
+[2025-02-03T14:54:04.297] [INFO] default - Entering the Username & Password for Standard User
+[2025-02-03T14:54:04.430] [INFO] default - User signed in successfully!
+[2025-02-03T14:54:04.492] [INFO] default - 
+✅ Finished test case: =>=>=> Basic User Login Test Ended. <=<=<= ✅
+
+[2025-02-03T14:54:05.206] [INFO] default - 
+🚀 Starting test case: =>=>=> Product Added To Cart Validation Test. <=<=<= 🚀
+
+[2025-02-03T14:54:09.916] [INFO] default - 
+🚀 Starting test case: =>=>=> Open Product Validation Test. <=<=<= 🚀
+
